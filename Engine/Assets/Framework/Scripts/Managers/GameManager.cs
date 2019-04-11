@@ -1,29 +1,31 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class GameManager : MonoBehaviour
+namespace XGame
 {
-    private static GameManager s_instance;
 
-    public static GameManager GetInstance()
+    public class GameManager : MonoBehaviour
     {
-        return s_instance;
-    }
+        private static GameManager s_instance;
 
-    void Awake()
-    {
-        s_instance = this;
-    }
+        public static GameManager GetInstance()
+        {
+            return s_instance;
+        }
 
-    void Start()
-    {
-        
-    }
+        void Awake()
+        {
+            s_instance = this;
+        }
 
-   
-    void Update()
-    {
-        
+        void Start()
+        {
+
+        }
+
+
+        void Update()
+        {
+
+        }
     }
 }
