@@ -1,0 +1,14 @@
+Engine/Library
+Engine/Logs
+Engine/Packages
+DesignEditor/Packages
+DesignEditor/Logs
+DesignEditor/Library
+ArtEditor/Packages
+ArtEditor/Library
+ArtEditor/Logs
+Engine/obj
+Engine/.vs
+Engine/Temp
+Engine/Assets/3rd/XLua/Gen
+Gen.meta

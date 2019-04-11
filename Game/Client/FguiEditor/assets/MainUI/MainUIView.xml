@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1024,576">
+  <displayList>
+    <richtext id="n0_r2ru" name="n0" xy="418,268" size="186,39" fontSize="30" autoSize="none" text="Hello World !"/>
+  </displayList>
+</component>

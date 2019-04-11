@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r49o7uxu" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="r2ru0" name="MainUIView.xml" path="/"/>
+  </resources>
+  <publish name="MainUI"/>
+</packageDescription>
