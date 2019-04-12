@@ -10,5 +10,7 @@ ArtEditor/Logs
 Engine/obj
 Engine/.vs
 Engine/Temp
-Engine/Assets/3rd/XLua/Gen
+Engine/Assets/3rd/XLua/Src/Gen
 Gen.meta
+Engine/Assets/Gen/XLua
+XLua.meta

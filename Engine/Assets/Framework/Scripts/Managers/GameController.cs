@@ -3,11 +3,11 @@
 namespace XGame
 {
 
-    public class GameManager : MonoBehaviour
+    public class GameController : MonoBehaviour
     {
-        private static GameManager s_instance;
+        private static GameController s_instance;
 
-        public static GameManager GetInstance()
+        public static GameController GetInstance()
         {
             return s_instance;
         }
