@@ -1,5 +1,4 @@
-DesignEditor	-- 策划编辑器
-ArtEditor		-- 美术编辑器
+ResEditor			--资源编辑器
 Engine			-- 游戏引擎
 Game			-- 游戏程序
 
