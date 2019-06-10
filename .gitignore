@@ -14,3 +14,13 @@ Engine/Assets/3rd/XLua/Src/Gen
 Gen.meta
 Engine/Assets/Gen/XLua
 XLua.meta
+Editor/.vs
+Editor/Library
+Editor/Logs
+Editor/obj
+Editor/Assembly-CSharp-Editor.csproj
+Editor/Editor.sln
+Engine/Assembly-CSharp-Editor.csproj
+Engine/Assembly-CSharp.csproj
+Engine/Engine.sln
+Share.csproj

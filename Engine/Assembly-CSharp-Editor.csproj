@@ -73,6 +73,7 @@
     <Compile Include="Assets\3rd\XLua\XLua\Src\Editor\Hotfix.cs" />
     <Compile Include="Assets\3rd\XLua\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.cs" />
     <Compile Include="Assets\3rd\XLua\XLua\Src\Editor\TemplateRef.cs" />
+    <Compile Include="Assets\Scripts\Editor\ScriptsBuilder.cs" />
     <None Include="Assets\3rd\XLua\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.tpl.txt" />
     <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaClassWrapGCM.tpl.txt" />
     <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaWrapPusher.tpl.txt" />
@@ -712,6 +713,10 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{6F2CED76-F833-8BE5-1D30-794C65E67AB7}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="Share.csproj">
+      <Project>{6D13E8D4-CA32-6D10-D049-158FA98097A5}</Project>
+      <Name>Share</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
