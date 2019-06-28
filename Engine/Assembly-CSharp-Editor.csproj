@@ -60,33 +60,32 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\DisplayObjectEditor.cs" />
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\EditorToolSet.cs" />
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\PackagesWindow.cs" />
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\StageCameraEditor.cs" />
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\UIConfigEditor.cs" />
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\UIContentScalerEditor.cs" />
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\UIPainterEditor.cs" />
-    <Compile Include="Assets\3rd\FairyGUI\Scripts\Editor\UIPanelEditor.cs" />
-    <Compile Include="Assets\3rd\XLua\XLua\Editor\ExampleConfig.cs" />
-    <Compile Include="Assets\3rd\XLua\XLua\Src\Editor\Generator.cs" />
-    <Compile Include="Assets\3rd\XLua\XLua\Src\Editor\Hotfix.cs" />
-    <Compile Include="Assets\3rd\XLua\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.cs" />
-    <Compile Include="Assets\3rd\XLua\XLua\Src\Editor\TemplateRef.cs" />
-    <Compile Include="Assets\Scripts\Editor\ScriptsBuilder.cs" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaClassWrapGCM.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaWrapPusher.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaDelegateBridge.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\TemplateCommon.lua.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaEnumWrap.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaDelegateWrap.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaRegisterGCM.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaRegister.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaInterfaceBridge.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaClassWrap.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\LuaEnumWrapGCM.tpl.txt" />
-    <None Include="Assets\3rd\XLua\XLua\Src\Editor\Template\PackUnpack.tpl.txt" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\DisplayObjectEditor.cs" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\EditorToolSet.cs" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\PackagesWindow.cs" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\StageCameraEditor.cs" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\UIConfigEditor.cs" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\UIContentScalerEditor.cs" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\UIPainterEditor.cs" />
+    <Compile Include="Assets\Thirds\FairyGUI\Scripts\Editor\UIPanelEditor.cs" />
+    <Compile Include="Assets\Thirds\XLua\XLua\Editor\ExampleConfig.cs" />
+    <Compile Include="Assets\Thirds\XLua\XLua\Src\Editor\Generator.cs" />
+    <Compile Include="Assets\Thirds\XLua\XLua\Src\Editor\Hotfix.cs" />
+    <Compile Include="Assets\Thirds\XLua\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.cs" />
+    <Compile Include="Assets\Thirds\XLua\XLua\Src\Editor\TemplateRef.cs" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\LinkXmlGen\LinkXmlGen.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaClassWrapGCM.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaWrapPusher.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaDelegateBridge.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\TemplateCommon.lua.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaEnumWrap.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaDelegateWrap.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaRegisterGCM.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaRegister.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaInterfaceBridge.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaClassWrap.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\LuaEnumWrapGCM.tpl.txt" />
+    <None Include="Assets\Thirds\XLua\XLua\Src\Editor\Template\PackUnpack.tpl.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/cnscj/UnityWorkspace/xLuaFramework4FGUI/Engine/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -353,6 +352,12 @@
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
       <HintPath>/Users/cnscj/UnityWorkspace/xLuaFramework4FGUI/Engine/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>/Users/cnscj/UnityWorkspace/xLuaFramework4FGUI/Engine/Assets/Thirds/DOTween/Editor/DOTweenEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>/Users/cnscj/UnityWorkspace/xLuaFramework4FGUI/Engine/Assets/Thirds/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -713,6 +718,14 @@
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{6F2CED76-F833-8BE5-1D30-794C65E67AB7}</Project>
       <Name>Assembly-CSharp</Name>
+    </ProjectReference>
+    <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
+      <Project>{F48A7E30-E971-B80C-868A-0FB749F69D99}</Project>
+      <Name>Assembly-CSharp-Editor-firstpass</Name>
+    </ProjectReference>
+    <ProjectReference Include="OnlyEditor.csproj">
+      <Project>{FA62AD68-FCD8-7BB6-5017-8C9D851FD7C3}</Project>
+      <Name>OnlyEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Share.csproj">
       <Project>{6D13E8D4-CA32-6D10-D049-158FA98097A5}</Project>
